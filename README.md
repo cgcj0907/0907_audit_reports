@@ -1,11 +1,3 @@
----
-title: "漏洞等级划分标准"
-date: 2025-08-16
-draft: false
-tags: ["Web3", "security"]
-showToc: true
----
-
 # 简介
 
 在识别代码库中的漏洞时，评估其潜在影响与风险至关重要。漏洞（finding）通常分为三类：
